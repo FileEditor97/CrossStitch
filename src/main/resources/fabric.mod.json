@@ -18,7 +18,7 @@
     "crossstitch.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.11",
-    "minecraft": ">=1.19.3"
+    "fabricloader": "*",
+    "minecraft": ">=1.18.2"
   }
 }
