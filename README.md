@@ -1,3 +1,13 @@
+## Fork info
+This fork contains fix for `Argument type identifier null unknown` when trying to join Fabric server with
+'Forge Config API Port' mod installed.  
+This fix directly addresses wrapping of class net.minecraftforge.server.command.ModIdArgument.
+
+Notes:
+- Only for **1.18.2** version.
+- I'm not profound in modding, this fix may not work for your.  
+- This was tested with 'Create: Astral' (v2.1.3) modpack.
+
 # CrossStitch
 
 CrossStitch is a Minecraft mod designed to improve Minecraft proxy compatibility with other Minecraft mods.
