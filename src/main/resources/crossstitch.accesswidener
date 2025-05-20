@@ -1,0 +1,4 @@
+accessWidener v2 named
+accessible class net/minecraft/command/argument/ArgumentTypes$Entry
+accessible method net/minecraft/command/argument/ArgumentTypes byClass (Lcom/mojang/brigadier/arguments/ArgumentType;)Lnet/minecraft/command/argument/ArgumentTypes$Entry;
+accessible method net/minecraft/command/argument/ArgumentTypes$Entry <init> (Lnet/minecraft/command/argument/serialize/ArgumentSerializer;Lnet/minecraft/util/Identifier;)V
